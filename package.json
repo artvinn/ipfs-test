@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "go-ipfs-dep": "^0.4.14",
+    "ipfsd-ctl": "^0.31.0"
+  }
+}
